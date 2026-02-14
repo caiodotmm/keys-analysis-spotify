@@ -1,0 +1,12 @@
+[theme]
+base = "dark"
+primaryColor = "#00E676"
+linkColor = "#6495ED"
+backgroundColor = "hsl(0,0%,10%)"
+secondaryBackgroundColor = "hsl(0,0%,15%)"
+dataframeHeaderBackgroundColor = "hsl(0,0%,7.5%)"
+textColor = "hsl(0,0%,95%)"
+font = "sans serif"
+
+[server]
+maxMessageSize = 300000000 # 300 MB
