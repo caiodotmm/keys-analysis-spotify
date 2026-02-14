@@ -7,7 +7,7 @@
 ## Explore the Data
 **Explore the data in your way!** Filter by year, genre and discover insights from Spotify tracks.
 
-**[Try the Live App]()**
+**[Try the Live App](https://keys-analysis-spotify.streamlit.app/)**
 
 ---
 
