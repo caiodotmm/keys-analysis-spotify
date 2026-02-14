@@ -15,7 +15,9 @@
 **Base Dataset:** [Spotify 1M Tracks (Kaggle)](https://www.kaggle.com/datasets/amitanshjoshi/spotify-1million-tracks)  
 **License:** [ODbL 1.0](https://opendatacommons.org/licenses/odbl/1-0/)
 
-This project uses a **modified derivative** of the original dataset. Download it directly from the Streamlit app.
+This project uses a **modified derivative** of the original dataset. Download it directly from [data](data/).
+
+**Note:** There are four different dataset sizes in [data](data/): 100% (Full Dataset), 75%, 50% and 25% (Default).
 
 ---
 
